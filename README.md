@@ -17,18 +17,12 @@ This piece of code is an API which uses Yolov3 trained model to detect wild anim
 The Trained model: [Trained Model](https://drive.google.com/file/d/1BY4JS460L1WCz6p1UwZW_Un8bHWWXVW_/view?usp=drivesdk).<br>
 The training was done by my fellow [Waheed Anwar](https://github.com/Waheed9002/AR-Hiking-App.git).
 #
-**DATASET**
-**Type:** Image data
-**Classes Count:** 25
+**DATASET**<br>
+**Type:** Image data<br>
+**Classes Count:** 25<br>
 **Classes:**
-1. bear 
-2. bison 
-3. cat 
-4. chimpanzee 
-5. cow 
-6. deer 
-7. dog 
-8. donkey 
+1. bear | 2. bison | 3. cat | 4. chimpanzee |<br
+5. cow  | 6. deer  | 7. dog | 8. donkey     |<br>
 9. elephant 
 10. fox 
 11. goat 
