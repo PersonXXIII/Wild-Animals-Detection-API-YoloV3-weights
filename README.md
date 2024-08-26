@@ -1,11 +1,10 @@
 # Wild-Animals-Detection-API-YoloV3-weights
 #
 **INTRODUCTION<br>**
-**AI Type:** Supervised AI.<br>
 This piece of code is an API which uses Yolov3 trained model to detect wild animals.
 #
 **LANGUAGES**
-> Python (3.11).
+> Python (3.12).
 #
 **LIBRARIES**
 > Flask.<br>
@@ -15,7 +14,7 @@ This piece of code is an API which uses Yolov3 trained model to detect wild anim
 **MODEL**
 > YoloV3.<br><br>
 The Trained model: [Trained Model](https://drive.google.com/file/d/1BY4JS460L1WCz6p1UwZW_Un8bHWWXVW_/view?usp=drivesdk).<br>
-The training was done by my fellow [Waheed Anwar](https://github.com/Waheed9002/AR-Hiking-App.git).
+The training was done by my fellow [Waheed Anwar]([https://github.com/Waheed9002/AR-Hiking-App.git](https://github.com/Waheed9002)).
 #
 **DATASET**<br>
 **Type:** Image data<br>
