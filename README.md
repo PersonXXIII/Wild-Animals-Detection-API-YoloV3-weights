@@ -21,16 +21,7 @@ The training was done by my fellow [Waheed Anwar](https://github.com/Waheed9002/
 **Type:** Image data<br>
 **Classes Count:** 25<br>
 **Classes:**
-1. bear        11. goat       21. sheep 
-2. bison       12. gorilla    22. tiger 
-3. cat         13. horse      24. wolf 
-4. chimpanzee  14. hyena      25. zebra
-5. cow         15. leopard 
-6. deer        16. lion 
-7. dog         17. panda 
-8. donkey      18. pig 
-9. elephant    19. reindeer 
-10. fox        20. rhinoceros 
+
 #
 **API INPUT**
 i. Images can be sent.<br>
