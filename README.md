@@ -25,5 +25,9 @@ The training was done by my fellow [Waheed Anwar]([https://github.com/Waheed9002
 i. Images can be sent.<br>
 ii. Franes on real time can be sent.<br>
 **API Input Key:** image
-
+#
+**Demo Image**
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+<img src="[https://i.imgur.com/4ozJMcO.png](https://i.imgur.com/qq1k6E1.jpg)" alt="Dashboard UI 1" style="width: 300px; height: auto;">
+</div>
 
