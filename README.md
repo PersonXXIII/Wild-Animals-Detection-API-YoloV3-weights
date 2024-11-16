@@ -28,6 +28,6 @@ ii. Franes on real time can be sent.<br>
 #
 **Demo Image**
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-<img src="[https://i.imgur.com/4ozJMcO.png](https://i.imgur.com/qq1k6E1.jpg)" alt="Dashboard UI 1" style="width: 300px; height: auto;">
+<img src="https://i.imgur.com/qq1k6E1.jpg" alt="Dashboard UI 1" style="width: 300px; height: auto;">
 </div>
 
