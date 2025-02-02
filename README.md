@@ -25,7 +25,7 @@ The training was done by my fellow <a href='https://github.com/Waheed9002/AR-Hik
 **API INPUT**
 #
 i. Images can be sent.<br>
-ii. Franes on real time can be sent.<br>
+ii. Frames on real time can be sent.<br>
 **API Input Key:** image
 #
 **Demo Image**
