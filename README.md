@@ -22,6 +22,7 @@ The training was done by my fellow [Waheed Anwar]([https://github.com/Waheed9002
 **Classes:** bear, bison, cat, chimpanzee, cow, deer, dog, donkey, elephant, fox, goat, gorilla, horse, hyena, leopard, lion, panda, pig, reindeer, rhinoceros, sheep, tiger, wolf and zebra.
 #
 **API INPUT**
+#
 i. Images can be sent.<br>
 ii. Franes on real time can be sent.<br>
 **API Input Key:** image
